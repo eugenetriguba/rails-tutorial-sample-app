@@ -167,12 +167,26 @@ input {
   height: auto !important;
 }
 
+.checkbox {
+  margin-top: -10px;
+  margin-bottom: 10px;
+  span {
+    margin-left: 20px;
+    font-weight: normal;
+  }
+}
+
+#session_remember_me {
+  width: auto;
+  margin-left: 0;
+}
+
 /* Errors */
 
 #error_explanation {
   color: red;
   ul {
-    color: #771F1F; // bright standard red was painful to look at 
+    color: #771F1F; // bright standard red was painful to look at
     margin: 0 0 30px 0;
   }
 }
