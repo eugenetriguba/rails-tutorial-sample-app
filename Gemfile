@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'rails',                   '5.0.0.1'
-gem 'arel' # Added while trying to debug an error, may not be needed.
 gem 'bcrypt',                  '3.1.11'
 gem 'faker',                   '1.6.6'
 gem 'carrierwave',             '0.11.2'
