@@ -51,3 +51,6 @@ Temporary Items
 
 # Ignore uploaded test images.
 /public/uploads
+
+# Ignore IDEA files
+/.idea/*
