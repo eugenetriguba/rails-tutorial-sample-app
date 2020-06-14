@@ -1,6 +1,7 @@
 # Twitter Clone
 
-A Twitter clone using Ruby on Rails.
+A Twitter clone using Ruby on Rails. This had been built from progressing
+through the [Ruby on Rails book by Michael Hartl](https://3rd-edition.railstutorial.org/book).
 
 ## License
 
